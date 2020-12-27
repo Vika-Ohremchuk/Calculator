@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\klipartz.com.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bsOXU8WC6PI.jpg" />
+    <None Remove="J1VaXov0Qpc.jpg" />
+    <None Remove="kumamon-wallpaper-1920x1080.jpg" />
+    <None Remove="M90CWqRl2kU.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary2\ClassLibrary2.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bsOXU8WC6PI.jpg" />
+    <Resource Include="J1VaXov0Qpc.jpg" />
+    <Resource Include="kumamon-wallpaper-1920x1080.jpg" />
+    <Resource Include="M90CWqRl2kU.jpg" />
+  </ItemGroup>
+
+</Project>

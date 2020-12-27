@@ -1,0 +1,9 @@
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.cs
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\СВП\LABASVP2DZ\LABASVP2DZ\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csprojAssemblyReference.cache

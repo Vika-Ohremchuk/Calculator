@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iOpOL/pVLfMGLhmubJv/QAwUb+y1NEqdLx5bD7pHP7KZQZf0YVfruxwOPdL8HB683VtYySkiAQQKFHkxyH3/IA==",
+  "success": true,
+  "projectFilePath": "C:\\СВП\\LABASVP2DZ\\LABASVP2DZ\\ClassLibrary2\\ClassLibrary2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tanya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tanya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
